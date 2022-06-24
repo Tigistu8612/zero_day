@@ -1,1 +1,2 @@
-this is readme file for shell basics
+#!/bin/bash
+pwd
